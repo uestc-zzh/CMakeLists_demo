@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libalg.a  CMakeFiles/alg.dir/add/add.c.o CMakeFiles/alg.dir/sub/sub.c.o
+/usr/bin/ranlib ../../lib/libalg.a

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/add_example.dir/add_example.c.o  -o add_example   -L/home/zzh/CMakeLists_demo/output/lib  -Wl,-rpath,/home/zzh/CMakeLists_demo/output/lib ../../lib/libalg.a 

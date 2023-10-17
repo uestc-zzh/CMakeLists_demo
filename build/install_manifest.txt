@@ -1,0 +1,2 @@
+/home/zzh/CMakeLists_demo/alg/../output/include/alg.h
+/home/zzh/CMakeLists_demo/alg/../output/lib/libalg.a

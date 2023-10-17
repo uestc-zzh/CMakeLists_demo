@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/alg.h
+
+/home/zzh/CMakeLists_demo/examples/add_example.c
+alg.h
+/home/zzh/CMakeLists_demo/examples/alg.h
+stdio.h
+-
+
